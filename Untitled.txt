@@ -1,2 +1,0 @@
-what is python ? 
-Variables and Datatypes in Python
