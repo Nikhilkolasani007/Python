@@ -54,7 +54,10 @@ print(z.strip()) #Removes whitespace characters from the beginning or end of the
  # and Many more like Join Split Replace and many more
 
 
+#to print the string in a rivers format
 
-
+a="nk"
+rev = a[::-1]
+print(rev)
 
 # -----------------------------------------------------------------------------------
